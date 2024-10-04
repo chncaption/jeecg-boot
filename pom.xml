@@ -43,7 +43,7 @@
 
 		<!-- 积木报表-->
 		<jimureport-spring-boot-starter.version>1.5.3</jimureport-spring-boot-starter.version>
-		<commons.version>2.6</commons.version>
+		<commons.version>2.14.0</commons.version>
 		<aliyun-java-sdk-dysmsapi.version>2.1.0</aliyun-java-sdk-dysmsapi.version>
 		<aliyun.oss.version>3.11.2</aliyun.oss.version>
 		<!-- shiro -->
